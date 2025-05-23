@@ -1,0 +1,12 @@
+.PokeFlex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 600px;
+}
+ 
+img {
+    width: 100px;
+    height: 80px;
+}

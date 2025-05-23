@@ -1,0 +1,14 @@
+div {
+    display: flex;
+    flex-direction: column;
+    width:700px;
+    height: 800px;
+    background-color: red;
+    flex-wrap: nowrap;
+
+}
+ 
+img {
+    width: 100px;
+    height: 80px;
+}
